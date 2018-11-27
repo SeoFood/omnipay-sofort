@@ -1,5 +1,6 @@
 SOFORT Überweisung Omnipay gateway
 ==============
+[![Build Status](https://travis-ci.org/SeoFood/omnipay-sofort.svg?branch=master)](https://travis-ci.org/SeoFood/omnipay-sofort)
 
 [SOFORT Überweisung](https://www.sofort.com/eng-INT/) gateway for awesome [Omnipay](https://github.com/adrianmacneil/omnipay) library.
 
